@@ -46,5 +46,4 @@ Para compilar la biblioteca, puedes ejecutar los siguientes comandos en tu termi
 ## Estructura del proyecto
 
 - `src/` - Archivos .c
-- `include/` - Archivos de cabecera
 - `obj/` - Archivos objeto
